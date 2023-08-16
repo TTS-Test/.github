@@ -1,5 +1,5 @@
-## Hi there 👋
-
+# Hi there 👋
+## Welcome to the Tufts University Public GitHub Organzation
 <!--
 
 **Here are some ideas to get you started:**
