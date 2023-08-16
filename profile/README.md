@@ -1,5 +1,6 @@
-# Hi there 👋
-## Welcome to the Tufts University Public GitHub Organzation
+# Welcome to the Tufts University Public GitHub Organzation 👋
+This GitHub organization is available all Tufts University faculty, staff, students, and Tufts affliates with valid Tufts credentials.
+You can login here: https://github.com/orgs/Tufts-University/sso
 <!--
 
 **Here are some ideas to get you started:**
