@@ -1,7 +1,7 @@
 ![Tufts Logo](https://github.com/TTS-Test/.github/blob/main/Tufts_univ_blue_small.png)
 
-Welcome to the Tufts University Public GitHub Organzation 👋
-This GitHub organization is available all Tufts University faculty, staff, students, and Tufts affliates with valid Tufts credentials.
+##Welcome to the Tufts University Public GitHub Organzation 👋
+###This GitHub organization is available all Tufts University faculty, staff, students, and Tufts affliates with valid Tufts credentials.
 
 Please login here: https://github.com/orgs/Tufts-University/sso
 <!--
