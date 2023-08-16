@@ -1,3 +1,4 @@
+![Tufts Logo](Tufts_univ_blue.png)
 # Welcome to the Tufts University Public GitHub Organzation 👋
 This GitHub organization is available all Tufts University faculty, staff, students, and Tufts affliates with valid Tufts credentials.
 
